@@ -1,0 +1,10 @@
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.AssemblyReference.cache
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.cache
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\heral\School\Prog c#\Winter2023\PROG2200\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.Calculator.resources

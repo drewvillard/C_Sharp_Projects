@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>PROG2500_A2_Chinook</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\album.png" />
+    <None Remove="images\band.png" />
+    <None Remove="images\catalogue.png" />
+    <None Remove="images\customer.png" />
+    <None Remove="images\home.png" />
+    <None Remove="images\reject.png" />
+    <None Remove="images\search.png" />
+    <None Remove="images\song.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\album.png" />
+    <Resource Include="images\band.png" />
+    <Resource Include="images\catalogue.png" />
+    <Resource Include="images\customer.png" />
+    <Resource Include="images\home.png" />
+    <Resource Include="images\reject.png" />
+    <Resource Include="images\search.png" />
+    <Resource Include="images\song.png" />
+  </ItemGroup>
+
+</Project>

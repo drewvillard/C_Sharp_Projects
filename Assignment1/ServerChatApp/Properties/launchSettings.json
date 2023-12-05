@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ServerChatApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-server"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\heral\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\heral\\.nuget\\packages"
+    ]
+  }
+}
